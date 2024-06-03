@@ -1,19 +1,18 @@
 /* Write your code here. */
 * {
-  box-sizing:border-box;
+  box-sizing: border-box;
   border: 0;
 }
 .container {
   background-color: #0f172a;
   color: #f8fafc;
   height: 100vh;
-  display:flex;
+  display: flex;
   flex-direction: clolumn;
   justify-content: center;
-  align-items:center;
+  align-items: center;
 }
 
 .img {
   width: 200px;
-
 }
